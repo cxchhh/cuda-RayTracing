@@ -1,0 +1,3 @@
+运行前请记得将opencv的lib文件opencv_worldxxx.lib加入链接器输入中
+如我的opencv版本为4.6.0，则加入opencv_world460.lib
+若使用debug生成，则应为opencv_world460d.lib
