@@ -1,2 +1,2 @@
 # cuda-RayTracing
-An experimental whitted-style raying tracing using CUDA GPU acceleration
+An experimental Whitted-Style raying tracing using CUDA GPU acceleration
